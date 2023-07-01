@@ -1,0 +1,53 @@
+# and: Logical operator
+
+# as: To create an alias
+
+# break: To exit a loop
+
+# class: To define a class
+
+# continue: To continue to the next iteration of a loop
+
+# def: To define a function
+
+# del : To delete an object
+
+# elif : Short for "else if" in a conditional statement
+
+# else : To specify an alternative block of code to execute
+
+# except : To handle exceptions
+
+# False: Boolean value
+
+# for: To create a for loop
+
+# from: To import specific elements from a module
+
+# while: To create a while loop
+
+# global: To indicate a global variable
+
+# if: To create a conditional statement
+
+# import: To import a module
+
+# in: To specify a membership test
+
+# is : To test object identity
+
+# lambda: To create an anonymous function
+
+# None: A special value that indicates the absence of a value
+
+# not: Logical operator
+
+# or: Logical operator
+
+# pass: A null statement, used as a placeholder
+
+# return: To exit a function and return a value
+
+# True: Boolean value
+
+# try: To handle exceptions
